@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a9e03b9f78dd44e7aad2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-57ee415416d25c3e4564.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "person_tracker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ICES__home_robocomp_robocomp_components_grupo_12_Robotica_24-25_practica_2_src::@145eef247bfb46b6828c",
+					"jsonFile" : "target-ICES__home_robocomp_robocomp_components_grupo_12_Robotica_24-25_practica_2_src-Debug-02790ae04395b240bf2e.json",
+					"name" : "ICES__home_robocomp_robocomp_components_grupo_12_Robotica_24-25_practica_2_src",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "person_tracker::@145eef247bfb46b6828c",
+					"jsonFile" : "target-person_tracker-Debug-2e449eb0fa6cb62b01ac.json",
+					"name" : "person_tracker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "person_tracker_autogen::@145eef247bfb46b6828c",
+					"jsonFile" : "target-person_tracker_autogen-Debug-4fc65a5678b652eacc8e.json",
+					"name" : "person_tracker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "person_tracker_autogen_timestamp_deps::@145eef247bfb46b6828c",
+					"jsonFile" : "target-person_tracker_autogen_timestamp_deps-Debug-c64bfb37f3985b7c2aee.json",
+					"name" : "person_tracker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_2/cmake-build-debug",
+		"source" : "/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

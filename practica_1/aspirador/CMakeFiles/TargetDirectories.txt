@@ -1,0 +1,15 @@
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/CMakeFiles/edit_cache.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/CMakeFiles/rebuild_cache.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/CMakeFiles/list_install_components.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/CMakeFiles/install.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/CMakeFiles/install/local.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/CMakeFiles/install/strip.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/ICES__home_usuario_robocomp_ws_src_robocomp_components_grupo_12_Robotica_24-25_practica_1_aspirador_src.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/aspirador.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/edit_cache.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/rebuild_cache.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/list_install_components.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/install.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/install/local.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/install/strip.dir
+/home/usuario/robocomp_ws/src/robocomp/components/grupo_12/Robotica_24-25/practica_1/aspirador/src/CMakeFiles/aspirador_autogen.dir

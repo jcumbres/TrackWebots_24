@@ -1,0 +1,16 @@
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/CMakeFiles/edit_cache.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/CMakeFiles/rebuild_cache.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/CMakeFiles/list_install_components.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/CMakeFiles/install.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/CMakeFiles/install/local.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/CMakeFiles/install/strip.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/ICES__home_robocomp_robocomp_components_grupo_12_Robotica_24-25_practica_1_chocachoca_src.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/chocachoca.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/edit_cache.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/rebuild_cache.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/list_install_components.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/install.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/install/local.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/install/strip.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/chocachoca_autogen_timestamp_deps.dir
+/home/robocomp/robocomp/components/grupo_12/Robotica_24-25/practica_1/chocachoca/src/CMakeFiles/chocachoca_autogen.dir

@@ -1,0 +1,4 @@
+Cannot generate into /home/usuario/robocomp/components/grupo_12/Robotica_24-25/practica_2
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory

@@ -1,0 +1,24 @@
+# Sources set
+LIST(APPEND SOURCES
+  specificworker.cpp
+  specificmonitor.cpp
+  $ENV{ROBOCOMP}/classes/qcustomplot/qcustomplot.cpp
+
+)
+
+# Headers set
+LIST(APPEND HEADERS
+  specificworker.h
+  specificmonitor.h
+  $ENV{ROBOCOMP}/classes/qcustomplot/qcustomplot.h
+ )
+INCLUDE( $ENV{ROBOCOMP}/cmake/modules/opencv4.cmake )
+#find_package(MLPACK REQUIRED)
+
+set(CMAKE_CXX_STANDARD 23)
+add_definitions(-fmax-errors=1 -fno-char8_t -fopenmp)
+
+LIST(APPEND LIBS ${LIBS} gomp armadillo gmp mpfr)
+LIST(APPEND LIBS ${LIBS} Qt6PrintSupport)
+
+
